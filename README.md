@@ -1,5 +1,5 @@
 # hanoiAI
-Problem reduction technique in AI using AND tree to resolve the Tower of Hanoi game. An animation is used to display the moves in the game and in the generated AND tree.
+Problem reduction in AI by implementing the AND tree algorithm to resolve the Tower of Hanoi game. An animation is used to display the moves in the game and in the generated AND tree.
 
 # How to use?
 Just execute "main.py".
