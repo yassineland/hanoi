@@ -6,5 +6,5 @@ Just execute "main.py".
 
 To play it manually, juste incomment the part under the comment ```# Play manually!```
 
-# Shortcut
+# Screenshot
 ![image](https://user-images.githubusercontent.com/46229442/231513159-9a766da8-1d37-46a1-b6a7-cd5cfc0f06f3.png)
