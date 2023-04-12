@@ -4,4 +4,7 @@ Problem reduction technique in AI using AND tree to resolve the Tower of Hanoi g
 # How to use?
 Just execute "main.py".
 
-To play it manually, juste incomment the part under the comment "# Play manually!"
+To play it manually, juste incomment the part under the comment ```# Play manually!```
+
+# Shortcut
+![image](https://user-images.githubusercontent.com/46229442/231513159-9a766da8-1d37-46a1-b6a7-cd5cfc0f06f3.png)
